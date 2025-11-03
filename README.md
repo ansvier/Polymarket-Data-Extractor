@@ -22,8 +22,3 @@ Clone the repository and install dependencies:
 git clone https://github.com/YOUR_USERNAME/polymarket-data-extractor.git
 cd polymarket-data-extractor
 pip install -r requirements.txt
-Data API
-
-https://data-api.polymarket.com
-
-/trades?market=<conditionId>&takerOnly=false
